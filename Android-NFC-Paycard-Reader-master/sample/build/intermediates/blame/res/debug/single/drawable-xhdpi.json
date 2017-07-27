@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_fa_gear.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_fa_gear.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mastercard.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\mastercard.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_fa_credit_card.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_fa_credit_card.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_share.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expander_open_holo_light.9.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\expander_open_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\donation.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\donation.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\amex.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\amex.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\expander_close_holo_light.9.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\expander_close_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\invoice.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\invoice.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emv_card_background.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\emv_card_background.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unionpay.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\unionpay.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\visa.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\visa.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contactless.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\contactless.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_fa_info_circle.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_fa_info_circle.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\github.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\github.png"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\jcb.png",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable-xhdpi\\jcb.png"
+    }
+]

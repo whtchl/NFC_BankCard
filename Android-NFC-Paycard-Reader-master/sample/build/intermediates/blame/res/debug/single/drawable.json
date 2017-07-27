@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\cardui.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\cardui.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_back.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\menu_back.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\cardui_no_radius_top.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\cardui_no_radius_top.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\card_border.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\card_border.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\cardui_no_bottom_shadow.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\cardui_no_bottom_shadow.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\button_back.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\drawable\\button_back.xml"
+    }
+]

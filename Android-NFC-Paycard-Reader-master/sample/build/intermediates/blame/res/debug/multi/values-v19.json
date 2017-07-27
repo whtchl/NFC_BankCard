@@ -1,0 +1,91 @@
+[
+    {
+        "outputFile": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\values-v19\\theme.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\values-v19\\theme.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\values-v19\\theme.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\values-v19\\theme.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1283
+                    }
+                }
+            }
+        ]
+    }
+]

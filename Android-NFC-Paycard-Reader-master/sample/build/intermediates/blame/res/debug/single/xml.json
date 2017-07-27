@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_list.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\xml\\nfc_tech_list.xml"
+    },
+    {
+        "merged": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\02_Workspace\\Android-NFC-Paycard-Reader-master\\sample\\src\\main\\res\\xml\\preferences.xml"
+    }
+]
